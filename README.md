@@ -9,17 +9,17 @@ Estimation of the house price values based on houses' parameters and locations (
 
 -->Cross-validation scores:
 
-    -ElasticNet Model
-    
-    -Ridge Regression
-    
-    -Linear Regression
-    
-    -Voting Regressor
-    
-    -Random Forest Regressor
-    
-    -Boosting Regressor
+        -ElasticNet Model
+        
+        -Ridge Regression
+        
+        -Linear Regression
+        
+        -Voting Regressor
+        
+        -Random Forest Regressor
+        
+        -Boosting Regressor
     
 
 
