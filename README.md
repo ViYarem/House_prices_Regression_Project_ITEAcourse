@@ -49,7 +49,7 @@ Boosting Regressor
 
 -->VotingRegressor didn't improove result;
 
--->R2 scores of the RandomForestRegressor after tuning were increased to 71,7% for test and 76,5%; 
+-->R2 scores of the RandomForestRegressor after tuning were increased to 71,7% for test and 76,5% for training; 
 
 -->R2 scores of the GradientBoostingRegressor after tuning gave the best result (about 76,6% for test and 82,3% for training).
 
