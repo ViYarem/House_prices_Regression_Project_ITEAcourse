@@ -29,11 +29,11 @@ Boosting Regressor
 
 -->Upload the Housing_Regression.csv and read the data;
 
--->Investigate the dataset and make the visualisation;
+-->Investigate the dataset and do visualisation;
 
 -->Pprepare the data;
 
--->Build the regression models and make models' tuning;
+-->Build the regression models and do the models' tuning;
 
 -->Create an ensemble using VotingRegressor;
 
