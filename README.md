@@ -3,24 +3,26 @@ Estimation of the house price values based on houses' parameters and locations (
 
 # Content
 
+-->Overviewing of the Task
+
 -->Data analysis, visualization and preparation;
 
 -->Models Building and Tuning;
 
--->Cross-validation scores:
+Cross-validation scores
 
-        -ElasticNet Model
-        
-        -Ridge Regression
-        
-        -Linear Regression
-        
-        -Voting Regressor
-        
-        -Random Forest Regressor
-        
-        -Boosting Regressor
-    
+ElasticNet Model
+
+Ridge Regression
+
+Linear Regression
+
+Voting Regressor
+
+Random Forest Regressor
+
+Boosting Regressor
+  
 
 
 # Steps
